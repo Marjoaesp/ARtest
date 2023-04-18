@@ -80,4 +80,4 @@ public class PlaceTrackImage : MonoBehaviour
             //_instantiatedPrefabs[trackedImage.referenceImage.name].SetActive(false);
         }
     }
-}
+} 
